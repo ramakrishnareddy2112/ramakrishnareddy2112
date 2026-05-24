@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **B.Tech Computer Science (Data Science)** student at Sir Padampat Singhania University, Udaipur, currently in my second year and building toward a career in **Data Science and AI Engineering**.
+I'm a **B.Tech Computer Science (Data Science)** student at Sir Padampat Singhania University, Udaipur, currently in my final year and building toward a career in **Data Science and AI Engineering**.
 
 I enjoy taking a problem from scratch — understanding the data, engineering the right features, training a model, and deploying something that actually works. Most of my projects are live on **Streamlit Cloud**, not just sitting in notebooks.
 

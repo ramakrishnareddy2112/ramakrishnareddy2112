@@ -1,133 +1,197 @@
-<h1 align="center">Hi, I'm Rama Krishna Reddy 👋</h1>
+# Hi 👋, I'm P. V. Rama Krishna Reddy
+
+### Data Science Student | Machine Learning Enthusiast | AI Developer
 
 <p align="center">
-  <b>Data Science Student · Machine Learning Engineer · AI Builder</b><br/>
-  <i>Turning raw data into real-world solutions — one model at a time.</i>
-</p>
-
-<p align="center">
-  <a href="mailto:pothamsettiramakrishnareddy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/ramakrishnareddy7">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/ramakrishnareddy2112">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ramakrishnareddy2112&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I'm a **B.Tech Computer Science (Data Science)** student at Sir Padampat Singhania University, Udaipur, currently in my final year and building toward a career in **Data Science and AI Engineering**.
+🎓 Final Year B.Tech Computer Science (Data Science) Student
 
-I enjoy taking a problem from scratch — understanding the data, engineering the right features, training a model, and deploying something that actually works. Most of my projects are live on **Streamlit Cloud**, not just sitting in notebooks.
+🏫 Sir Padampat Singhania University, Udaipur
 
-- 🎯 Focused on: **Machine Learning, NLP, Deep Learning, and Data Analytics**
-- 🔨 Currently building: AI-powered applications using Python & TensorFlow
-- 📬 Open to: **Internships, Research Collaborations, and Entry-level DS/ML roles**
-- 📍 Based in: Rajahmundry, Andhra Pradesh, India
+💡 Passionate about Data Science, Machine Learning, Artificial Intelligence, and Analytics
 
----
+🔍 Interested in solving real-world problems using data-driven solutions
 
-## 🛠️ Tech Stack
+🌱 Currently learning Advanced Machine Learning, Deep Learning, and Generative AI
 
-**Languages**
+💼 Looking for Internship and Entry-Level Opportunities in Data Science, AI, and Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**ML / DL Frameworks**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**Data & Visualization**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3c7ebf?style=flat-square&logo=python&logoColor=white)
-
-**Tools & Deployment**
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+📍 Andhra Pradesh, India
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technical Skills
 
-### 🎬 Movie Recommendation System
-> Content-based recommender for 5,000+ movies using NLP & cosine similarity
+### Programming Languages
 
-Built a Netflix-style recommendation engine with TMDB API integration for live poster fetching. Covers tokenization, stemming, CountVectorizer, and a clean dark UI — all deployed on Streamlit Cloud.
+* Python
+* SQL
+* C++
+* C
 
-**Stack:** Python · Scikit-learn · NLTK · Streamlit · TMDB API
+### Data Science & Machine Learning
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://movie-recommendation-system-bc3q5wynzmgpwbx8pdjje9.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ramakrishnareddy2112/Movie-Recommendation-System)
+* Machine Learning
+* Deep Learning
+* Natural Language Processing (NLP)
+* Data Analysis
+* Feature Engineering
+* Model Evaluation
 
----
+### Libraries & Frameworks
 
-### 📊 Interactive Sales Analytics Dashboard
-> Live-filtering dashboard analyzing 10,000+ sales records
+* Pandas
+* NumPy
+* Scikit-Learn
+* TensorFlow
+* Keras
+* OpenCV
+* NLTK
+* Matplotlib
+* Seaborn
 
-Built for regional performance tracking, category trends, and customer segmentation. Includes full data cleaning pipeline (missing values, date conversion, type fixes) and interactive Streamlit UI.
+### Tools & Platforms
 
-**Stack:** Python · Pandas · Matplotlib · Seaborn · Streamlit
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://sales-dashboard-ribfpxhyentljx8ykjs9iu.streamlit.app)
-[![GitHub](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ramakrishnareddy2112/Sales-Dashboard)
-
----
-
-### 🧠 Face Recognition System
-> CNN-based pipeline with high accuracy across varied lighting & pose conditions
-
-Designed and trained on Google Colab with optimized hyperparameters. Covers end-to-end image preprocessing, face detection using OpenCV, and deep feature extraction via CNNs.
-
-**Stack:** Python · TensorFlow · Keras · OpenCV · CNN
-
----
-
-### 📧 AI Email Automation Agent *(Team Project)*
-> NLP-driven agent to classify, sort, and auto-respond to emails
-
-Collaborated with teammates to design an intelligent inbox automation system. Integrated NLP-based classification with Gmail API and handled system integration, testing, and evaluation.
-
-**Stack:** Python · NLP · Gmail API
+* Streamlit
+* Git & GitHub
+* Jupyter Notebook
+* Google Colab
+* VS Code
 
 ---
 
-## 📜 Certifications
+# 🚀 Featured Projects
 
-| Certification | Issuer | Year |
-|---|---|---|
-| Google Analytics Certification | Google | 2026 |
-| Oracle Cloud Infrastructure 2025 Certified | Oracle | 2025 |
-| NPTEL Certification in E-Business | NPTEL | — |
-| Introduction to IoT | Cisco | — |
+## 🤖 AI Resume Analyzer
+
+AI-powered Resume Analysis System that evaluates resumes against job descriptions using NLP and Machine Learning techniques.
+
+### Features
+
+* ATS Score Analysis
+* Resume Matching
+* Skill Gap Detection
+* Resume Improvement Suggestions
+* Interactive Dashboard
+
+### Tech Stack
+
+Python • Streamlit • NLP • Sentence Transformers • Gemini AI • Scikit-Learn
+
+🔗 Live Demo:
+https://ai-resume-analyzer-wvgqjxnf3mzf4zes5irkrw.streamlit.app/
+
+🔗 GitHub:
+https://github.com/ramakrishnareddy2112
 
 ---
 
-## 📈 GitHub Stats
+## 🎬 Movie Recommendation System
+
+Content-based Movie Recommendation Engine built using NLP and Machine Learning techniques.
+
+### Features
+
+* Recommends Similar Movies
+* TMDB Poster Integration
+* Cosine Similarity Based Matching
+* Interactive Streamlit UI
+
+### Tech Stack
+
+Python • NLP • Scikit-Learn • Streamlit • TMDB API
+
+🔗 Live Demo:
+https://movie-recommendation-system-bc3q5wynzmgpwbx8pdjje9.streamlit.app/
+
+🔗 GitHub:
+https://github.com/ramakrishnareddy2112/Movie-Recommendation-System
+
+---
+
+## 👤 Face Recognition System
+
+Machine Learning based Face Recognition System developed using image preprocessing, PCA, feature extraction, and classification algorithms.
+
+### Features
+
+* Face Detection
+* Face Recognition
+* Image Processing
+* Model Training & Evaluation
+
+### Tech Stack
+
+Python • OpenCV • TensorFlow • Scikit-Learn • PCA • CNN
+
+---
+
+## 📧 AI Email Automation Agent
+
+Intelligent Email Automation System designed to classify, organize, and automate email workflows.
+
+### Features
+
+* Email Classification
+* Automated Responses
+* NLP-based Processing
+* Workflow Automation
+
+### Tech Stack
+
+Python • NLP • Gmail API • Machine Learning
+
+---
+
+## 🌐 Personal Portfolio Website
+
+Modern responsive portfolio website showcasing projects, skills, certifications, and achievements.
+
+### Features
+
+* Fully Responsive Design
+* Modern UI/UX
+* Project Showcase
+* Resume Download
+* Contact Section
+
+### Tech Stack
+
+React • TypeScript • Tailwind CSS
+
+🔗 Portfolio:
+https://ramakrishnareddy.lovable.app/
+
+---
+
+# 📜 Certifications
+
+🏆 Oracle Cloud Infrastructure 2025 Certified Foundations Associate
+
+🏆 Google Data Analytics Certification
+
+🏆 Cisco Introduction to Internet of Things (IoT)
+
+🏆 NPTEL E-Business Certification
+
+🏆 AICTE Virtual Internship Certification
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramakrishnareddy2112&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramakrishnareddy2112&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ramakrishnareddy2112&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramakrishnareddy2112&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramakrishnareddy2112&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -135,15 +199,25 @@ Collaborated with teammates to design an intelligent inbox automation system. In
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramakrishnareddy2112&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ramakrishnareddy2112&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
+
+## 📫 Connect With Me
+
+📧 Email:
+[pothamsettiramakrishnareddy@gmail.com](mailto:pothamsettiramakrishnareddy@gmail.com)
+
+💼 LinkedIn:
+https://linkedin.com/in/ramakrishnareddy7
+
+💻 GitHub:
+https://github.com/ramakrishnareddy2112
+
+🌐 Portfolio:
+https://ramakrishnareddy.lovable.app/
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramakrishnareddy2112&label=Profile%20Views&color=0e75b6&style=flat-square" />
-</p>
+### 💡 Quote
 
-<p align="center">
-  <i>"Data is the new oil — I'm here to refine it."</i>
-</p>
+> "Transforming data into insights and ideas into intelligent solutions."
